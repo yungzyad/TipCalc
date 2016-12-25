@@ -15,6 +15,7 @@
 		9B0578341E105F5700ACE1E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0578321E105F5700ACE1E6 /* LaunchScreen.storyboard */; };
 		9B05783F1E105F5700ACE1E6 /* TipCalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B05783E1E105F5700ACE1E6 /* TipCalcTests.swift */; };
 		9B05784A1E105F5700ACE1E6 /* TipCalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0578491E105F5700ACE1E6 /* TipCalcUITests.swift */; };
+		9B0578581E10677400ACE1E6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0578571E10677400ACE1E6 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9B0578451E105F5700ACE1E6 /* TipCalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B0578491E105F5700ACE1E6 /* TipCalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalcUITests.swift; sourceTree = "<group>"; };
 		9B05784B1E105F5700ACE1E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B0578571E10677400ACE1E6 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				9B0578261E105F5600ACE1E6 /* AppDelegate.swift */,
 				9B0578281E105F5600ACE1E6 /* ViewController.swift */,
 				9B05782A1E105F5700ACE1E6 /* Main.storyboard */,
+				9B0578571E10677400ACE1E6 /* SettingsViewController.swift */,
 				9B0578301E105F5700ACE1E6 /* Assets.xcassets */,
 				9B0578321E105F5700ACE1E6 /* LaunchScreen.storyboard */,
 				9B0578351E105F5700ACE1E6 /* Info.plist */,
@@ -265,6 +268,7 @@
 				9B05782F1E105F5700ACE1E6 /* TipCalc.xcdatamodeld in Sources */,
 				9B0578291E105F5600ACE1E6 /* ViewController.swift in Sources */,
 				9B0578271E105F5600ACE1E6 /* AppDelegate.swift in Sources */,
+				9B0578581E10677400ACE1E6 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
